@@ -1,0 +1,6 @@
+name,quantity,unit,reorder_level
+Flour,100.0,kg,10
+Tomato Sauce,50.0,liters,5
+Cheese, 25,kg,5
+Pepperoni,30,kg,3
+Olives,10,kg,2

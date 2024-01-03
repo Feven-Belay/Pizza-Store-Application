@@ -1,0 +1,23 @@
+recipe_name,ingredient_name,amount
+Pepperoni,Pepperoni,1
+Hawaiian,Ham,1
+Hawaiian,Pineapple,1
+Deluxe,Pepperoni,1
+Deluxe,Bacon,1
+Deluxe,Mushrooms,1
+Deluxe,Olives,1
+Deluxe,Peppers,1
+Deluxe,Onion,1
+Meat Lovers,Pepperoni,1
+Meat Lovers,Ham,1
+Meat Lovers,Bacon,1
+Vegetarian,Mushrooms,1
+Vegetarian,Olives,1
+Vegetarian,Onion,1
+Vegetarian,Peppers,1
+Vegetarian,Tomato,1
+BBQ Chicken,Chicken,1
+BBQ Chicken,Red Onion,1
+BBQ Chicken,BBQ Sauce,1
+BBQ Chicken,Cheddar,1
+Pepperoni,Ham,3.0

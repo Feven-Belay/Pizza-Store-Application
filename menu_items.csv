@@ -1,0 +1,8 @@
+name,description,size,price,category,recipe_name
+Pepperoni,Pepperoni pizza,large,15.5,meat,Pepperoni
+Hawaiian,Ham and pineapple pizza,large,18.5,meat,Hawaiian
+Deluxe,"Pepperoni, Bacon, Mushrooms, Olives, Peppers, Onion",large,19.5,specialty,Deluxe
+Meat Lovers,"Pepperoni, Ham, Bacon",large,18.5,meat,Meat Lovers
+Vegetarian,"Mushrooms, Olives, Onion, Peppers, Tomato",large,19.5,vegetarian,Vegetarian
+BBQ Chicken,"Chicken, Red Onion, BBQ Sauce, Cheddar",large,19.5,meat,BBQ Chicken
+Vegetarian,Good,small,12.0,meat,Hawaiian
